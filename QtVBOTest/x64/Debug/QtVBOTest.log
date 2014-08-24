@@ -1,0 +1,20 @@
+﻿Build started 8/24/2014 12:48:39 PM.
+     1>Project "C:\Users\gen\Documents\GitHub\QtVBOTest\QtVBOTest\QtVBOTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\QtVBOTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         QtVBOTest.vcxproj -> C:\Users\gen\Documents\GitHub\QtVBOTest\x64\Debug\QtVBOTest.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\QtVBOTest.unsuccessfulbuild".
+         Touching "x64\Debug\QtVBOTest.lastbuildstate".
+     1>Done Building Project "C:\Users\gen\Documents\GitHub\QtVBOTest\QtVBOTest\QtVBOTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
