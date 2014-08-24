@@ -1,0 +1,1 @@
+This project is a simple Qt application framework which can load an OBJ file and show its 3D model. In this framework, Vertex Buffer Object is used with the fixed pipeline.
